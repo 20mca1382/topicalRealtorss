@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: space-around;
+
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.contactus{
+    display: flex;
+    justify-content: center;
+}
